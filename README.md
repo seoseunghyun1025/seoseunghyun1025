@@ -1,5 +1,7 @@
-# SEO SEUNG HYUN 👋
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Hello%20World%20✋%20I'm%20Seung%20Hyun&animation=blinking&fontColor=ffffff&fontSize=50" />
+    </div>
+    
 ## 👀 About Me
 
 - I'm a student aspiring to be a full-stack developer, learning new technologies.
@@ -8,6 +10,7 @@
 ## 👍 Baekjoon
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seosh1025)](https://solved.ac/seosh1025/)
+
 
 ## 🖥️ Skills
 
@@ -31,3 +34,5 @@ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
